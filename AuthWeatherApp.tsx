@@ -5,6 +5,8 @@ File: AuthWeatherApp.tsx          Date: 1/25/2024
 
    Modification Log
    1/28/2024 Adapted the 2023 starter code to use Typescipt.  S. Sigman
+   1/29/2024 Renamed App.tsx and modified for use with nested Navigators.
+             S. Sigman
 */
 import { NavigationContainer, StackActions } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
