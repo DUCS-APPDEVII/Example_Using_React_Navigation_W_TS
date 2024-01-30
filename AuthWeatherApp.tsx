@@ -1,5 +1,5 @@
 /*
-File: App.tsx          Date: 1/25/2024
+File: AuthWeatherApp.tsx          Date: 1/25/2024
    This file provides navigation for the MyWeather app.  See the README.md file
    for the application specifications
 
